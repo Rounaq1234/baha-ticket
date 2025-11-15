@@ -1,6 +1,14 @@
-import discord
+import discord 
 from discord.ext import commands
-import os, json, asyncio
+import os
+import json
+
+# -----------------------------
+# DISABLE ALL VOICE FEATURES
+# -----------------------------
+import discord.voice_client
+discord.voice_client.has_nacl = lambda: False
+
 
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
