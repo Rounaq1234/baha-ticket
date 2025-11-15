@@ -1,0 +1,18 @@
+{
+  "token": null,
+  "application_id": null,
+  "embed_color": "0x2f3136",
+  "logos": {
+    "paypal": "https://i.imgur.com/IdZ7xhl.png",
+    "cashapp": "https://i.imgur.com/ZiS9B8s.png",
+    "crypto": "https://i.imgur.com/4H0l9gB.png"
+  },
+  "staff_role_id": null,
+  "log_channel_id": null,
+  "ticket_category_id": null,
+  "panel": {
+    "title": "\ud83d\udcb8 Exchange Panel",
+    "description": "Choose your sending method below:",
+    "placeholder": "Select method"
+  }
+}
