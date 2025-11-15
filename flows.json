@@ -1,0 +1,39 @@
+{
+  "methods": {
+    "cashapp": {
+      "label": "CashApp",
+      "icon": "cashapp",
+      "fee": 0.08
+    },
+    "paypal_balance": {
+      "label": "PayPal Balance",
+      "icon": "paypal",
+      "fee": 0.08
+    },
+    "paypal_card": {
+      "label": "PayPal Card",
+      "icon": "paypal",
+      "fee": 0.15
+    },
+    "crypto": {
+      "label": "Crypto",
+      "icon": "crypto",
+      "fee": 0.08
+    },
+    "zelle": {
+      "label": "Zelle",
+      "icon": "zelle",
+      "fee": 0.08
+    },
+    "venmo": {
+      "label": "Venmo",
+      "icon": "venmo",
+      "fee": 0.08
+    },
+    "applepay": {
+      "label": "ApplePay",
+      "icon": "applepay",
+      "fee": 0.08
+    }
+  }
+}
